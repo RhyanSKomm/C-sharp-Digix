@@ -1,0 +1,15 @@
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\bin\Debug\net8.0\aula_2.exe
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\bin\Debug\net8.0\aula_2.deps.json
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\bin\Debug\net8.0\aula_2.runtimeconfig.json
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\bin\Debug\net8.0\aula_2.dll
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\bin\Debug\net8.0\aula_2.pdb
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\aula_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\aula_2.AssemblyInfoInputs.cache
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\aula_2.AssemblyInfo.cs
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\aula_2.csproj.CoreCompileInputs.cache
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\aula_2.sourcelink.json
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\aula_2.dll
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\refint\aula_2.dll
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\aula_2.pdb
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\aula_2.genruntimeconfig.cache
+C:\Users\rhyansantiago\.vscode\extensions\ms-dotnettools.vscode-dotnet-pack-1.0.13\misc\Nova pasta\aula_2\obj\Debug\net8.0\ref\aula_2.dll

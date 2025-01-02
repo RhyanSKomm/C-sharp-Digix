@@ -1,0 +1,14 @@
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\bin\Debug\net8.0\Animal_Heranca.exe
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\bin\Debug\net8.0\Animal_Heranca.deps.json
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\bin\Debug\net8.0\Animal_Heranca.runtimeconfig.json
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\bin\Debug\net8.0\Animal_Heranca.dll
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\bin\Debug\net8.0\Animal_Heranca.pdb
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\obj\Debug\net8.0\Animal_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\obj\Debug\net8.0\Animal_Heranca.AssemblyInfoInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\obj\Debug\net8.0\Animal_Heranca.AssemblyInfo.cs
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\obj\Debug\net8.0\Animal_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\obj\Debug\net8.0\Animal_Heranca.dll
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\obj\Debug\net8.0\refint\Animal_Heranca.dll
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\obj\Debug\net8.0\Animal_Heranca.pdb
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\obj\Debug\net8.0\Animal_Heranca.genruntimeconfig.cache
+C:\Users\rhyansantiago\Desktop\C\Aula_16_OO_Heranca\Animal_Heranca\obj\Debug\net8.0\ref\Animal_Heranca.dll
