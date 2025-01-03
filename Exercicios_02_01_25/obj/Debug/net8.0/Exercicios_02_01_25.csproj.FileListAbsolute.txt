@@ -12,3 +12,4 @@ C:\Users\rhyansantiago\Desktop\C\Exercicios_02_01_25\obj\Debug\net8.0\refint\Exe
 C:\Users\rhyansantiago\Desktop\C\Exercicios_02_01_25\obj\Debug\net8.0\Exercicios_02_01_25.pdb
 C:\Users\rhyansantiago\Desktop\C\Exercicios_02_01_25\obj\Debug\net8.0\Exercicios_02_01_25.genruntimeconfig.cache
 C:\Users\rhyansantiago\Desktop\C\Exercicios_02_01_25\obj\Debug\net8.0\ref\Exercicios_02_01_25.dll
+C:\Users\rhyansantiago\Desktop\C\Exercicios_02_01_25\obj\Debug\net8.0\Exercicios_02_01_25.sourcelink.json

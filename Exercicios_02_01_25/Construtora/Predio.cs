@@ -1,56 +1,65 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Exercicios_01_02_25
 {
     public class Predio : Edificacao
-    {
+        {
         private string? nome;
         private int numAndares;
         private int apPorAndar;
 
-        public Predio(float metragemTotal, string endereco, Engenheiro responsavel, UnidadeResidencial[] unidades, string nome, int numAndares, int apPorAndar) : base(metragemTotal, endereco, responsavel, unidades)
+        public Predio(float metragemTotal, string endereco, Engenheiro responsavel, UnidadeResidencial[] unidades, string nome, int numAndares, int apPorAndar) 
+            : base(metragemTotal, endereco, responsavel, unidades)
         {
             this.nome = nome;
             this.numAndares = numAndares;
             this.apPorAndar = apPorAndar;
         }
 
-        public string? getNome()
+        public string? GetNome()
         {
             return nome;
         }
 
-        public void setNome(string nom)
+        public void SetNome(string nom)
         {
-            this.nome = nom;
+            nome = nom;
         }
 
-        public int getNumAndares()
+        public int GetNumAndares()
         {
             return numAndares;
         }
 
-        public void setNumAndares(int nAnd)
+        public void SetNumAndares(int nAnd)
         {
-            this.numAndares = nAnd;
+            numAndares = nAnd;
         }
 
-        public int getApPorAndar()
+        public int GetApPorAndar()
         {
             return apPorAndar;
         }
 
-        public void setApPorAndar(int nAp)
+        public void SetApPorAndar(int nAp)
         {
-            this.apPorAndar = nAp;
+            apPorAndar = nAp;
         }
 
         public override string DescricaoDoImovel()
         {
-            return $"\nPredio {getNome()}.\nSituado a {getEndereco()}.\nArea total: {getMetragemTotal()} metros quadrados.\nResponsavel: Eng. {getResponsavel()}. CREA {responsavel.getCrea()}.\nNumero de Andares: {getNumAndares()}.\nNumero de Apartamentos por Andar: {getApPorAndar}.\nUnidade 1\nPropriedade de {unidades[1].getProprietario}.\nPossui {unidades[1].getMetragemUnidade} metros quadrados, {unidades[1].getNumQuartos} quartos, {unidades[1].getNumBanheiros} banheiros.\nUnidade 2\nPropriedade de {unidades[2].getProprietario}.\nPossui {unidades[2].getMetragemUnidade} metros quadrados, {unidades[2].getNumQuartos} quartos, {unidades[2].getNumBanheiros} banheiros.\nUnidade 3\nPropriedade de {unidades[3].getProprietario}.\nPossui {unidades[3].getMetragemUnidade} metros quadrados, {unidades[3].getNumQuartos} quartos, {unidades[3].getNumBanheiros} banheiros.";
+            string descricao = $"\nPredio {GetNome()}\nSituado a {GetEndereco()}\nArea total: {GetMetragemTotal()} metros quadrados\nResponsavel: Eng. {GetResponsavel().GetNome()} CREA {GetResponsavel().GetCrea()}\nNumero de Andares: {GetNumAndares()}\nNumero de Apartamentos por Andar: {GetApPorAndar()}";
+
+            for (int i = 0; i < unidades.Length; i++)
+            {
+                if (unidades[i] != null)
+                {
+                    descricao += $"\nUnidade {i + 1}\nPropriedade de {unidades[i].GetProprietario()}\nPossui {unidades[i].GetMetragemUnidade()} metros quadrados, {unidades[i].GetNumQuartos()} quartos, {unidades[i].GetNumBanheiros()} banheiros.";
+                }
+            }
+
+            return descricao;
         }
     }
 }

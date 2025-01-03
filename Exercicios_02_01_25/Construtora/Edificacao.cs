@@ -1,7 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Exercicios_01_02_25
 {
@@ -20,42 +18,42 @@ namespace Exercicios_01_02_25
             this.unidades = unidades;
         }
 
-        public float getMetragemTotal()
+        public float GetMetragemTotal()
         {
             return metragemTotal;
         }
 
-        public void setMetragemTotal(float met)
+        public void SetMetragemTotal(float met)
         {
-            this.metragemTotal = met;
+            metragemTotal = met;
         }
 
-        public string? getEndereco()
+        public string? GetEndereco()
         {
             return endereco;
         }
 
-        public void setEndereco(string end)
+        public void SetEndereco(string end)
         {
-            this.endereco = end;
+            endereco = end;
         }
 
-        public Engenheiro getResponsavel()
+        public Engenheiro GetResponsavel()
         {
             return responsavel;
         }
 
-        public void setResponsavel(Engenheiro eng)
+        public void SetResponsavel(Engenheiro eng)
         {
-            this.responsavel = eng;
+            responsavel = eng;
         }
 
-        public UnidadeResidencial[] getUnidades()
+        public UnidadeResidencial[] GetUnidades()
         {
             return unidades;
         }
 
-        public bool cadastrarUnidade(UnidadeResidencial novaUni)
+        public bool CadastrarUnidade(UnidadeResidencial novaUni)
         {
             for (int i = 0; i < unidades.Length; i++)
             {
