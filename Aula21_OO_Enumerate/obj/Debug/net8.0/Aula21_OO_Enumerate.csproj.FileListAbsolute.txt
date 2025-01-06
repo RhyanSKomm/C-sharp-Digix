@@ -1,0 +1,15 @@
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\bin\Debug\net8.0\Aula21_OO_Enumerate.exe
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\bin\Debug\net8.0\Aula21_OO_Enumerate.deps.json
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\bin\Debug\net8.0\Aula21_OO_Enumerate.runtimeconfig.json
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\bin\Debug\net8.0\Aula21_OO_Enumerate.dll
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\bin\Debug\net8.0\Aula21_OO_Enumerate.pdb
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\Aula21_OO_Enumerate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\Aula21_OO_Enumerate.AssemblyInfoInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\Aula21_OO_Enumerate.AssemblyInfo.cs
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\Aula21_OO_Enumerate.csproj.CoreCompileInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\Aula21_OO_Enumerate.sourcelink.json
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\Aula21_OO_Enumerate.dll
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\refint\Aula21_OO_Enumerate.dll
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\Aula21_OO_Enumerate.pdb
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\Aula21_OO_Enumerate.genruntimeconfig.cache
+C:\Users\rhyansantiago\Desktop\C\Aula21_OO_Enumerate\obj\Debug\net8.0\ref\Aula21_OO_Enumerate.dll

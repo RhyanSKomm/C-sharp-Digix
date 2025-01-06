@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace projeto.Correção
+namespace Aula_21_OO.Desafio_3
 {
     public class Estoque
     {
@@ -12,17 +12,18 @@ namespace projeto.Correção
 
         public bool VerificarEstoque(Produto produto)
         {
+            // Array.IndexOf retorna o índice do elemento no array, ou -1 se não encontrar
             int index = Array.IndexOf(Produtos, produto);
             return index >= 0 && Quantidades[index] > 0;
         }
 
-        public Produto ProcurarProduto(string nome)
+        public Produto ProcurarProduto(int codigo)
         {
-            foreach (var produto in Produtos)
+            foreach (var prduto in Produtos)
             {
-                if (produto.Nome == nome)
+                if (prduto.Codigo == codigo)
                 {
-                    return produto;
+                    return prduto;
                 }
             }
             return null;

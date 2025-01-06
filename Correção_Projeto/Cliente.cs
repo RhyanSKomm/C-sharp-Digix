@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Correção_Projeto;
 
 namespace Aula_21_OO.Desafio_3
 {
@@ -11,7 +12,7 @@ namespace Aula_21_OO.Desafio_3
         public string Nome { get; set; }
         public Endereco Endereco { get; set; }
         public string Telefone { get; set; }
-        public string CPF { get; set; }
+        public int CPF { get; set; }
 
         // Para ocorrer composição o Endereço deve ser instanciado no construtor
         public Cliente()
@@ -21,7 +22,7 @@ namespace Aula_21_OO.Desafio_3
         // Construtor
         // Aqui acontece a composição
         public Cliente(string nome, string rua, string cidade, 
-            string estado, int cep, string telefone, string cpf)
+            Estado estado, int cep, string telefone, int cpf)
         {
             Nome = nome;
             Endereco = new Endereco(rua, cidade, estado, cep);

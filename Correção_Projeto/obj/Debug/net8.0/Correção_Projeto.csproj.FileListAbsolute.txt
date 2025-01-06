@@ -1,0 +1,15 @@
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\Correção_Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\Correção_Projeto.AssemblyInfoInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\Correção_Projeto.AssemblyInfo.cs
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\Correção_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\Correção_Projeto.sourcelink.json
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\bin\Debug\net8.0\Correção_Projeto.exe
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\bin\Debug\net8.0\Correção_Projeto.deps.json
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\bin\Debug\net8.0\Correção_Projeto.runtimeconfig.json
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\bin\Debug\net8.0\Correção_Projeto.dll
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\bin\Debug\net8.0\Correção_Projeto.pdb
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\Correção_Projeto.dll
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\refint\Correção_Projeto.dll
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\Correção_Projeto.pdb
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\Correção_Projeto.genruntimeconfig.cache
+C:\Users\rhyansantiago\Desktop\C\Correção_Projeto\obj\Debug\net8.0\ref\Correção_Projeto.dll

@@ -3,14 +3,13 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
-using Padaria;
 
 namespace Aula_21_OO.Desafio_3
 {
     public class Venda
     {
         public Produto[] Produtos { get; set; }
-        public DataSetDateTime Data { get; set; }
+        public DateTime Data { get; set; }
         public Funcionario Vendedor { get; set; }
         public string FormaPagamento { get; set; }
         public int Parcelas { get; set; }
