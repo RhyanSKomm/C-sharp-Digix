@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Correção_Projeto", "Corre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula21_OO_Enumerate", "Aula21_OO_Enumerate\Aula21_OO_Enumerate.csproj", "{097C4396-90E2-4B78-A86C-1EE4E38ADF63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios_07_01_25", "Exercicios_07_01_25\Exercicios_07_01_25.csproj", "{4D9C1DAC-2704-4E4D-8DD2-4548317E8220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{097C4396-90E2-4B78-A86C-1EE4E38ADF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097C4396-90E2-4B78-A86C-1EE4E38ADF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097C4396-90E2-4B78-A86C-1EE4E38ADF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D9C1DAC-2704-4E4D-8DD2-4548317E8220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9C1DAC-2704-4E4D-8DD2-4548317E8220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9C1DAC-2704-4E4D-8DD2-4548317E8220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9C1DAC-2704-4E4D-8DD2-4548317E8220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
