@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Aula_23_OO_Excessao.Resolucao_3;
 
 namespace Exercicios_09_01_2025
 {

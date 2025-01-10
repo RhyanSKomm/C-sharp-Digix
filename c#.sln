@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios_09_01_2025", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rodr", "Rodr\Rodr.csproj", "{5C747343-41D0-40EC-A472-11C8488D1597}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_24_OO_Struct", "Aula_24_OO_Struct\Aula_24_OO_Struct.csproj", "{43688203-6B5A-4487-918B-BBB0F5C862CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,10 @@ Global
 		{5C747343-41D0-40EC-A472-11C8488D1597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C747343-41D0-40EC-A472-11C8488D1597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C747343-41D0-40EC-A472-11C8488D1597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43688203-6B5A-4487-918B-BBB0F5C862CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43688203-6B5A-4487-918B-BBB0F5C862CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43688203-6B5A-4487-918B-BBB0F5C862CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43688203-6B5A-4487-918B-BBB0F5C862CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
