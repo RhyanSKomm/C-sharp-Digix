@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace ExercicioDia09
 {
@@ -9,38 +8,39 @@ namespace ExercicioDia09
     {
         public int Code { get; set; }
         public string Adress { get; set; }
+        private List<Account> accounts;
 
         public Bank(int code, string adress)
         {
             Code = code;
             Adress = adress;
+            accounts = new List<Account>();
         }
-        public void Menages()
+
+        public void AddAccount(Account account)
         {
-            Console.WriteLine("Bank Code: " + Code);
-            Console.WriteLine("Bank Adress: " + Adress);
+            accounts.Add(account);
         }
-        public void Maintains()
+
+        public void ListAllAccounts()
         {
-            foreach (var bank in Bank)
+            foreach (var account in accounts)
             {
-                bank.Menages();
+                Console.WriteLine($"Account Number: {account.Number}, Balance: {account.Balance:C}");
             }
         }
-            public void SearchAccount()
-            {   
-                foreach (var account in Accounts)
-                {
-                    if (account.AccountNumber == accountNumber)
-                    {
-                        account.Menages();
-                        return;
-                    }
-                }
-                Console.WriteLine("Account not found");
+
+        public void SearchAccount(int accountNumber)
+        {
+            var account = accounts.FirstOrDefault(a => a.Number == accountNumber);
+            if (account != null)
+            {
+                Console.WriteLine($"Account found: {account.Number}, Balance: {account.Balance:C}");
             }
-
+            else
+            {
+                Console.WriteLine("Account not found.");
+            }
         }
-
     }
 }

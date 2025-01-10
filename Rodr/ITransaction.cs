@@ -7,14 +7,10 @@ namespace ExercicioDia09
 {
     public interface ITransaction
     {
-        public interface ITransaction
-{
-    void Deposit(double amount);
+        void Deposit(double amount);
 
-    void Transfer(double amount, string targetAccount);
+        void Transfer(double amount, string targetAccount);
 
-    void WithDraw(double amount);
-}
-
+        void WithDraw(double amount);
     }
 }

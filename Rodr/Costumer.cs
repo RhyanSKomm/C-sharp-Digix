@@ -5,14 +5,14 @@ using System.Threading.Tasks;
 
 namespace ExercicioDia09
 {
-    public class Costumer
+    public class Customer
     {
         public int Number { get; set; }
         public string Adress { get; set; }
         public DateTime Dob { get; set; }
         public int CardNumber { get; set; }
         public int Pin { get; set; }
-        public Costumer(int number, string adress, DateTime dob, int cardNumber, int pin)
+        public Customer(int number, string adress, DateTime dob, int cardNumber, int pin)
         {
             Number = number;
             Adress = adress;
