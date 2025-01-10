@@ -56,5 +56,10 @@ namespace Exercicios_09_01_2025
                 }
             }
         }
+
+        public Account GetAccount(int accountNumber)
+        {
+            return Accounts.Find(a => a.NumberAccount == accountNumber);
+        } 
     }
 }

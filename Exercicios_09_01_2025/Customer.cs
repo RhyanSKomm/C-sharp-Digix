@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Aula_23_OO_Excessao.Resolucao_3;
 
 namespace Exercicios_09_01_2025
 {
@@ -22,16 +23,13 @@ namespace Exercicios_09_01_2025
             Pin = pin;
         }
 
-        public void verifyPassword(int pin)
+        public void VerifyPassword(int pin)
         {
-            if (Pin == pin)
+            if (Pin != pin)
             {
-                Console.WriteLine("Pin correct");
+                throw new DomainException("Erro de senha: Pin incorreto.");
             }
-            else
-            {
-                Console.WriteLine("Pin incorrect");
-            }
+            System.Console.WriteLine("Pin correto!");
         }
 
     }

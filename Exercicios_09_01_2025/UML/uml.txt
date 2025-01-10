@@ -1,0 +1,17 @@
+1 - Simplifiquei as classes: ContaCorrente e ContaPoupanca, em um Enum, com isso implementei direto na classe Account para quando ser criada for apenas uma dessas opções.
+
+2- Na classe Account além de cria uma variável para o enum tipo de conta, criei uma lista para armazenar todas as transações feitas pelo método createTransation(). E para o usuário visualizar fiz o método showTransaction.
+
+3 - A classe Account herda a classe Customer, sendo assim quando uma Account for criada terá um Customer para ela.
+
+4 - Como mais de uma classe pedia endereço, criei uma classe a mais chamada Address, onde a classe Bank e Customer precisam de um endereço.
+
+5 - Como um endereço pede um Estado, criei um enum com todas as variáveis de Estado para ser utilizada.
+
+6 - Na classe Bank criei uma lista para armazernar as Accounts e os ATMs. Criei métodos a mais sendo eles:
+    1 - createAccount - Adiciona Account na lista Accounts
+    2 - listAccount - Lista os itens da lista Accounts
+    3 - searchAccount - Permite buscar uma conta específica pelo NumberAccount
+    4 - getAccount - Permite no executar buscar uma conta para validar se ela existe e o usuário acessá-listAccount
+
+7 - Na classe ATMTransactions, para criar um ID único utilizei o método Guid. Criei um enum para o tipo de transação (Deposit e WithDraw). Adicionei uma variávei location para fazer uma busca específica de transações por Estado.

@@ -21,7 +21,7 @@ namespace Exercicios_09_01_2025
             {
                 throw new DomainException("Erro no saldo: Não é possível criar um saldo negativo");
             }
-            if (typeAccount == TypeAccount.CurrentAccount && (int)idade.TotalDays < 18)
+            if (typeAccount == TypeAccount.Corrente && (int)idade.TotalDays < 18)
             {
                 throw new DomainException("Erro de idade: Não é possível cria Conta Corrente para menor de 18 anos");
             }
@@ -45,7 +45,7 @@ namespace Exercicios_09_01_2025
         {
             if (Balance < 0)
             {
-                throw new DomainException("Erro de saldo: Saldo insuficiente para saque")
+                throw new DomainException("Erro de saldo: Saldo insuficiente para saque");
             }
             if (value > Balance)
             {
