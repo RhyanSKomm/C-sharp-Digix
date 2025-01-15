@@ -3,6 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Peoject("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios_02_01_25", "Exercicios_02_01_25\Exercicios_02_01_25.csproj", "{3B567C36-CA52-4E23-8AD2-A3B05A3397C6}"
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_2", "Aula_2\aula_2.csproj", "{5F0D2078-1983-4DAB-9F19-2265FF521447}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_3", "Aula_3\Aula_3.csproj", "{0EC45ED7-8A28-40DB-A999-3AED26E28ABB}"
@@ -55,8 +56,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_20_OO_Relacoes", "Aula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{4242F5B7-E8BA-446B-A6A1-BCB643B139CE}"
 EndProject
-Peoject("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios_02_01_25", "Exercicios_02_01_25\Exercicios_02_01_25.csproj", "{3B567C36-CA52-4E23-8AD2-A3B05A3397C6}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projeto", "projeto\projeto.csproj", "{45B19073-B9C4-4524-9D25-12BE8B49F955}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Correção_Projeto", "Correção_Projeto\Correção_Projeto.csproj", "{45734982-820B-49FC-8336-581041FB0E24}"
@@ -76,6 +75,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_24_OO_Struct", "Aula_24_OO_Struct\Aula_24_OO_Struct.csproj", "{43688203-6B5A-4487-918B-BBB0F5C862CF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_25_ManipulacaoArquivo", "Aula_25_ManipulacaoArquivo\Aula_25_ManipulacaoArquivo.csproj", "{B9A7570C-FF8A-4C8B-AA5D-EE92FA870748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_26_ManipilacaoArquivoBinario", "Aula_26_ManipilacaoArquivoBinario\Aula_26_ManipilacaoArquivoBinario.csproj", "{A8AFE26A-4146-45B6-88C8-FA7B31AEB028}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -275,6 +276,10 @@ Global
 		{B9A7570C-FF8A-4C8B-AA5D-EE92FA870748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9A7570C-FF8A-4C8B-AA5D-EE92FA870748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9A7570C-FF8A-4C8B-AA5D-EE92FA870748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8AFE26A-4146-45B6-88C8-FA7B31AEB028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AFE26A-4146-45B6-88C8-FA7B31AEB028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AFE26A-4146-45B6-88C8-FA7B31AEB028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AFE26A-4146-45B6-88C8-FA7B31AEB028}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
