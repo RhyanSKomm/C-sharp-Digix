@@ -1,0 +1,15 @@
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\bin\Debug\net8.0\Aula_27_Manipulacao2.exe
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\bin\Debug\net8.0\Aula_27_Manipulacao2.deps.json
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\bin\Debug\net8.0\Aula_27_Manipulacao2.runtimeconfig.json
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\bin\Debug\net8.0\Aula_27_Manipulacao2.dll
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\bin\Debug\net8.0\Aula_27_Manipulacao2.pdb
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\Aula_27_Manipulacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\Aula_27_Manipulacao2.AssemblyInfoInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\Aula_27_Manipulacao2.AssemblyInfo.cs
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\Aula_27_Manipulacao2.csproj.CoreCompileInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\Aula_27_Manipulacao2.sourcelink.json
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\Aula_27_Manipulacao2.dll
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\refint\Aula_27_Manipulacao2.dll
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\Aula_27_Manipulacao2.pdb
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\Aula_27_Manipulacao2.genruntimeconfig.cache
+C:\Users\rhyansantiago\Desktop\C\Aula_27_Manipulacao2\obj\Debug\net8.0\ref\Aula_27_Manipulacao2.dll

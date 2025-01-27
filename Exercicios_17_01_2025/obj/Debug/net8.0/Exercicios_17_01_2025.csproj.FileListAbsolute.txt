@@ -1,0 +1,15 @@
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\bin\Debug\net8.0\Exercicios_17_01_2025.exe
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\bin\Debug\net8.0\Exercicios_17_01_2025.deps.json
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\bin\Debug\net8.0\Exercicios_17_01_2025.runtimeconfig.json
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\bin\Debug\net8.0\Exercicios_17_01_2025.dll
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\bin\Debug\net8.0\Exercicios_17_01_2025.pdb
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\Exercicios_17_01_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\Exercicios_17_01_2025.AssemblyInfoInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\Exercicios_17_01_2025.AssemblyInfo.cs
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\Exercicios_17_01_2025.csproj.CoreCompileInputs.cache
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\Exercicios_17_01_2025.sourcelink.json
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\Exercicios_17_01_2025.dll
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\refint\Exercicios_17_01_2025.dll
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\Exercicios_17_01_2025.pdb
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\Exercicios_17_01_2025.genruntimeconfig.cache
+C:\Users\rhyansantiago\Desktop\C\Exercicios_17_01_2025\obj\Debug\net8.0\ref\Exercicios_17_01_2025.dll

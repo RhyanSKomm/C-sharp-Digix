@@ -8,7 +8,7 @@ namespace SummaryGenerator
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Mainasd(string[] args)
         {
             // Caminho onde o arquivo .csv será criado
             string inputFilePath = "itens.csv";
